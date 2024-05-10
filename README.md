@@ -12,10 +12,13 @@ My personal dark theme for Visual Studio Code, it's like the default one, but a 
 
 ## Installation
 
-1. Open the **Extensions** sidebar in VS Code.
-2. Search for `Better Default`
-3. Click **Install** to install it
-4. Code > Preferences > Color Theme > **Better Default**
+1. Search for `Better Default` in the Marketplace
+2. Go to File > Preferences > Color Theme
+3. Select the variant you want:
+   - `Better Default`
+   - `Better Default - default syntax highlighting`
+   - `Better Default - default primary color`
+   - `Better Default - default syntax hightlighting and primary color`
 
 ## Suggested settings
 
