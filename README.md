@@ -6,6 +6,8 @@
 
 My personal dark theme for Visual Studio Code, it's like the default one, but a bit better.
 
+![preview](preview.png)
+
 </div>
 
 ## Installation
