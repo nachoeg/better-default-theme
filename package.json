@@ -38,17 +38,17 @@
         "path": "./themes/theme.json"
       },
       {
-        "label": "Better Default (Default Syntax Highlighting)",
+        "label": "Better Default (default syntax highlighting)",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-default-syntax.json"
       },
       {
-        "label": "Better Default (Default Primary Color)",
+        "label": "Better Default (default primary color)",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-default-primary-color.json"
       },
       {
-        "label": "Better Default (Default Syntax Highlighting and Primary Color)",
+        "label": "Better Default (default syntax highlighting and primary color)",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-default-syntax-and-primary-color.json"
       }
