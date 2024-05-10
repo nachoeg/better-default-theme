@@ -10,7 +10,7 @@ const MyComponent = (param1) => {
 
   return (
     <div>
-      <h1>{object.string}</h1>;
+      <h1>{object.string}</h1>
     </div>
   );
 };
