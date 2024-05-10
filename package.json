@@ -1,0 +1,60 @@
+{
+  "name": "better-default-theme",
+  "displayName": "Better Default",
+  "description": "Like the default one, but a bit better.",
+  "version": "0.0.1",
+  "publisher": "nachoeg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nachoeg/better-default-theme"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "default",
+    "gtk",
+    "gnome",
+    "gnome theme",
+    "dark theme",
+    "better default",
+    "theme",
+    "dark",
+    "clean",
+    "simple",
+    "minimal",
+    "minimalistic",
+    "minimalism"
+  ],
+  "engines": {
+    "vscode": "^1.88.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Better Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      },
+      {
+        "label": "Better Default (Default Syntax Highlighting)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-default-syntax.json"
+      },
+      {
+        "label": "Better Default (Default Primary Color)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-default-primary-color.json"
+      },
+      {
+        "label": "Better Default (Default Syntax Highlighting and Primary Color)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-default-syntax-and-primary-color.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "Ignacio Escudero"
+  }
+}
