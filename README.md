@@ -6,13 +6,13 @@
 
 My personal dark theme for Visual Studio Code, it's like the default one, but a bit better.
 
-![preview](preview1.png)
+![preview](preview1.webp)
 
 **Alt Syntax Highlighting**
-![preview](preview2.png)
+![preview](preview2.webp)
 
 **Default Syntax Highlighting**
-![preview](preview3.png)
+![preview](preview3.webp)
 
 </div>
 
