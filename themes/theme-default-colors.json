@@ -1,12 +1,6 @@
 {
-  "name": "Enhanced Default (Default Syntax Highlighting)",
+  "name": "Enhanced Default (default colors)",
   "colors": {
-    "activityBarBadge.background": "#0069ff",
-    "button.background": "#0069ff",
-    "button.hoverBackground": "#1978ff",
-    "textLink.foreground": "#4d96ff",
-    "textLink.activeForeground": "#4d96ff",
-
     "activityBar.activeBorder": "#666",
     "activityBar.background": "#303030",
     "activityBar.border": "#00000000",

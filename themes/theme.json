@@ -1,9 +1,9 @@
 {
   "name": "Enhanced Default",
   "colors": {
-    "activityBarBadge.background": "#0069ff",
-    "button.background": "#0069ff",
-    "button.hoverBackground": "#1978ff",
+    "activityBarBadge.background": "#1978ff",
+    "button.background": "#1460cc",
+    "button.hoverBackground": "#296ccc",
     "textLink.foreground": "#4d96ff",
     "textLink.activeForeground": "#4d96ff",
 

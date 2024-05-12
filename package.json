@@ -39,14 +39,14 @@
         "path": "./themes/theme.json"
       },
       {
-        "label": "Enhanced Default (default syntax highlighting)",
+        "label": "Enhanced Default (alt colors)",
         "uiTheme": "vs-dark",
-        "path": "./themes/theme-default-syntax.json"
+        "path": "./themes/theme-alt-colors.json"
       },
       {
-        "label": "Enhanced Default (alt sintax highlighting)",
+        "label": "Enhanced Default (default colors)",
         "uiTheme": "vs-dark",
-        "path": "./themes/theme-alt-syntax.json"
+        "path": "./themes/theme-default-colors.json"
       }
     ]
   },
