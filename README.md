@@ -8,10 +8,10 @@ My personal dark theme for Visual Studio Code, it's like the default one, but a 
 
 ![preview](preview1.webp)
 
-**Alt Syntax Highlighting**
+**Alt colors**
 ![preview](preview2.webp)
 
-**Default Syntax Highlighting**
+**Default colors**
 ![preview](preview3.webp)
 
 </div>
