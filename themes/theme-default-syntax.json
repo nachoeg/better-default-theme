@@ -50,7 +50,7 @@
     "tab.border": "#00000000",
     "tab.inactiveBackground": "#262626",
     "tab.inactiveForeground": "#bbb",
-    "titleBar.activeBackground": "#3c3c3c",
+    "titleBar.activeBackground": "#3a3a3a",
     "notifications.background": "#2a2a2a",
     "widget.border": "#00000000"
   },
