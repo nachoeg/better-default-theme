@@ -2,10 +2,10 @@
   "name": "Enhanced Default (alt colors)",
   "colors": {
     "activityBarBadge.background": "#5633ff",
-    "button.background": "#5633ff",
-    "button.hoverBackground": "#6b4dff",
-    "textLink.foreground": "#9580ff",
-    "textLink.activeForeground": "#9580ff",
+    "button.background": "#4119ff",
+    "button.hoverBackground": "#5633ff",
+    "textLink.foreground": "#6a4dff",
+    "textLink.activeForeground": "#6a4dff",
 
     "activityBar.activeBorder": "#666",
     "activityBar.background": "#303030",
