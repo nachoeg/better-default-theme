@@ -1,12 +1,12 @@
 {
-  "name": "better-default-theme",
-  "displayName": "Better Default Theme",
+  "name": "enhanced-default-theme",
+  "displayName": "Enhanced Default Theme",
   "description": "Like the default one, but a bit better.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "nachoeg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nachoeg/better-default-theme"
+    "url": "https://github.com/nachoeg/enhanced-default-theme"
   },
   "icon": "icon.png",
   "keywords": [
@@ -15,6 +15,7 @@
     "gnome",
     "gnome theme",
     "dark theme",
+    "enhaced default",
     "better default",
     "theme",
     "dark",
@@ -33,24 +34,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Better Default",
+        "label": "Enhanced Default",
         "uiTheme": "vs-dark",
         "path": "./themes/theme.json"
       },
       {
-        "label": "Better Default (default syntax highlighting)",
+        "label": "Enhanced Default (default syntax highlighting)",
         "uiTheme": "vs-dark",
         "path": "./themes/theme-default-syntax.json"
       },
       {
-        "label": "Better Default (default primary color)",
+        "label": "Enhanced Default (alt sintax highlighting)",
         "uiTheme": "vs-dark",
-        "path": "./themes/theme-default-primary-color.json"
-      },
-      {
-        "label": "Better Default (default syntax highlighting and primary color)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/theme-default-syntax-and-primary-color.json"
+        "path": "./themes/theme-alt-syntax.json"
       }
     ]
   },

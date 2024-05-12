@@ -2,7 +2,7 @@
 
 ![icon](icon.png)
 
-# Better Default Theme
+# Enhanced Default Theme
 
 My personal dark theme for Visual Studio Code, it's like the default one, but a bit better.
 
@@ -12,13 +12,12 @@ My personal dark theme for Visual Studio Code, it's like the default one, but a 
 
 ## Installation
 
-1. Search for `Better Default` in the Marketplace
+1. Search for `Enhanced Default` in the Marketplace
 2. Go to **File** > **Preferences** > **Color Theme**
 3. Select the variant you want:
-   - **Better Default**
-   - **Better Default (default syntax highlighting)**
-   - **Better Default (default primary color)**
-   - **Better Default (default syntax highlighting and primary color)**
+   - **Enhanced Default**
+   - **Enhanced Default (default syntax highlighting)**
+   - **Enhanced Default (alt syntax highlighting)**
 
 ## Suggested settings
 

@@ -1,6 +1,13 @@
 {
-  "name": "Better Default (Default Primary Color)",
+  "name": "Enhanced Default (Alt Syntax Highlighting)",
   "colors": {
+    "badge.background": "#544dff",
+    "activityBarBadge.background": "#544dff",
+    "button.background": "#544dff",
+    "button.hoverBackground": "#6059ff",
+    "textLink.foreground": "#6c66ff",
+    "textLink.activeForeground": "#6c66ff",
+
     "activityBar.activeBorder": "#666",
     "activityBar.background": "#303030",
     "activityBar.border": "#00000000",
@@ -43,7 +50,7 @@
     "tab.border": "#00000000",
     "tab.inactiveBackground": "#262626",
     "tab.inactiveForeground": "#bbb",
-    "titleBar.activeBackground": "#3a3a3a",
+    "titleBar.activeBackground": "#363636",
     "notifications.background": "#2a2a2a",
     "widget.border": "#00000000"
   },
